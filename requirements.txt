@@ -1,0 +1,17 @@
+# Environment Variables
+python-dotenv
+
+# LangChain Core
+langchain-core
+langchain-openai
+
+# LangGraph
+langgraph
+
+# AutoGen
+autogen
+autogen-agentchat
+autogen-ext[openai]
+
+# OpenAI
+openai
